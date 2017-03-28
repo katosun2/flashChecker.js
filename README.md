@@ -6,7 +6,7 @@
 
 ```js
 var isFlash = flashChecker();
-console.isFlash();
+console.log(isFlash);
 ```
 
 ## License
