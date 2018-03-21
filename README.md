@@ -9,6 +9,10 @@ var isFlash = flashChecker();
 console.log(isFlash);
 ```
 
+## Demo
+
+[Demo](https://katosun2.github.io/flashChecker/)
+
 ## License
 
 MIT
